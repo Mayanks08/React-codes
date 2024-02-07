@@ -1,0 +1,23 @@
+.grid{
+    height: 500px;
+    width: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border: 5px solid yellow;
+    margin: 50px;
+    padding: 15px;
+    
+}
+.prime{
+    color:white;
+}
+button{
+    width: 175px;
+    height: 70px;
+    font-size: x-large;
+    color: rgb(75, 4, 142);
+    background-color: cadetblue;
+    border: 5px solid greenyellow;
+    border-radius: 20%;
+}

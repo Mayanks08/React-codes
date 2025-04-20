@@ -1,6 +1,6 @@
 # React App with Vite 🚀
 
-This repository contains the source code for a React application bootstrapped with [Vite](https://vitejs.dev/). Vite offers fast and modern tooling for building web applications, and this setup provides an efficient development experience with lightning-fast hot module replacement (HMR), easy configuration, and optimized builds.
+This repository contains the source code for a React application Tailwind CSS with [Vite](https://vitejs.dev/). Vite offers fast and modern tooling for building web applications, and this setup provides an efficient development experience with lightning-fast hot module replacement (HMR), easy configuration, and optimized builds.
 
 ## 🔧 Tech Stack
 

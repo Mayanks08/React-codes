@@ -27,7 +27,7 @@ my-react-app/
 
 ## 🚀 Getting Started
 
-To get a local copy up and running follow these simple steps.
+
 
 ### Prerequisites
 
@@ -42,6 +42,7 @@ npm -v
 - 🗂️ State Management using both **React Context API** and **Redux**
 
 The goal of this repo is to document and practice key React concepts in a modern and efficient dev environment powered by Vite.
+
 
 🔨 Build for Production
 npm run build

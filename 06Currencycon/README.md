@@ -29,8 +29,9 @@ This project helped me explore and understand several key concepts in modern Rea
 - Compared with the **Real DOM**, which is slower when dealing with frequent updates.
 - Gained insight into how React boosts performance through virtual DOM diffing and reconciliation.
 
-<h2>**ScreenShot**</h2>
-- ![Screenshot 2025-05-11 190114](https://github.com/user-attachments/assets/4fc2d19b-4a23-4700-939b-bd0ae4d3086e)
+<h2>ScreenShot</h2>
+
+![Screenshot 2025-05-11 190114](https://github.com/user-attachments/assets/4fc2d19b-4a23-4700-939b-bd0ae4d3086e)
 
 
 ## ⚙️ Technologies Used

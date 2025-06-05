@@ -1,0 +1,10 @@
+/* Keep minimal CSS here, most styling is done with Tailwind */
+/* Just add any global styles that can't be easily done with Tailwind */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+/* Fix for FaIcons import */
+svg {
+  display: inline-block;
+  vertical-align: middle;
+}
